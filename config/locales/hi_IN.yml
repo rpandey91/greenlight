@@ -21,35 +21,35 @@ hi_IN:
     attributes:
       user:
         accepted_terms: "नियम और शर्तें"
-        email:
-        name:
-        password:
-        password_confirmation:
+        email: "ईमेल"
+        name: "नाम"
+        password: "पासवर्ड"
+        password_confirmation: "पासवर्ड पुष्टि करें"
     errors:
       models:
         user:
-          confirmation:
+          confirmation: "पासवर्ड मेल नहीं खाता"
   administrator:
     site_settings:
       authentication:
-        disabled:
-        enabled:
-        info:
-        title:
-        user-info:
+        disabled: "निष्क्रिय"
+        enabled: "सक्रिय"
+        info: "सूचना"
+        title: "शीर्षक"
+        user-info: "यूजर बारे में"
       branding:
-        change:
-        info:
-        placeholder:
-        title:
+        change: "बदलें"
+        info: "सूचना"
+        placeholder: "प्लेसहोल्डर"
+        title: "शीर्षक"
       cache:
-        info:
-        title:
-        button:
+        info: "सूचना"
+        title: "शीर्षक"
+        button: 
       color:
-        info:
-        title:
-        regular:
+        info: "सूचना"
+        title: "शीर्षक"
+        regular: 
         lighten:
         darken:
       recording_visibility:
